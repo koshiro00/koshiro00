@@ -1,25 +1,25 @@
 <div align="center">
 
-# Koshiro Yukuioka
+# Yukioka Koshiro
 
-**Web Engineer** | Full-Stack Development | Type-Safe Development Specialist
+**Web Engineer (SE・PG)** | Full-Stack Development | Type-Safe Development Specialist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=koshiro00&color=lightgrey&style=flat)
 
 </div>
 
----
 
-## 🚀 Professional Summary
+  
+## 🚀 Summary
 
 TypeScriptを中核とした型安全な開発を重視するWebエンジニア。設計からコスト算出、インフラまで一気通貫で対応可能。クライアント折衝から実装まで単独完遂した経験を持ち、ビジネス価値の創出に貢献しています。
 
-**🗓️ Experience:** 2023年1月〜現在  
-**🏢 Domain:** 受託開発 ・ 自社プロダクト開発  
-**💪 Strength:** 最適な情報量を意識したコミュニケーションによる円滑なプロジェクト推進
+- **🗓️ Experience:** 2023年1月〜現在
+- **🏢 Domain:** 受託開発 ・ 自社プロダクト開発
+- **💪 Strength:** 最適な情報量を意識したコミュニケーションによる円滑なプロジェクト推進
+　
 
----
-
+　
 ## 📈 Key Achievements
 
 <table>
@@ -27,11 +27,12 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 <td width="50%">
 
 ### 💰 Cost Optimization
-- アーキテクチャ移行による**月額6万円のコスト削減**実績
-- インフラ設計からコスト算出まで対応
+- **SupabaseからAWSへのアーキテクチャ移行**による**月額6万円のコスト削減**実績
+- TerraformによるIaCでのコスト算出と最適化
 
 ### 🛡️ Security & Performance
 - 迷惑スパム対策による大量アクセス削減
+- E2Eテスト(Cypress)による品質向上
 - セキュリティを考慮したシステム設計
 
 </td>
@@ -39,18 +40,21 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 
 ### 🤖 AI Integration
 - **OpenAI APIを活用したLLM機能**のビジネス実装
-- 最新技術のビジネス適用
+- 教育機関向けサービスでの先進的AI活用
 
-### 👨‍🏫 Knowledge Sharing
-- プログラミングスクール講師経験
-- 社内GitHubレビュー担当
+### 🎨 UI/UX Excellence
+- **Figmaデザインの忠実な再現**
+- StyledComponents, TailwindCSS, CSS Modulesによる柔軟なスタイリング
+- デザインシステム実装とコンポーネント設計
+- useSWRによる効率的なデータフェッチングとキャッシュ管理
+- Next.js SSR/SSG/ISR/CSRの適切な使い分け
 
 </td>
 </tr>
 </table>
 
----
-
+　
+ 
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -78,17 +82,27 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### Infrastructure & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![microCMS](https://img.shields.io/badge/-microCMS-4A90E2?style=flat-square&logo=microcms&logoColor=white)
 
 </div>
-
----
-
+　
+ 
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -111,10 +125,6 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 
 </div>
 
----
-
-<div align="center">
-
-**"フロントエンドからバックエンド・インフラまで幅広い技術領域をカバーし、ビジネス価値の創出に貢献します"**
-
 </div>
+
+ 
