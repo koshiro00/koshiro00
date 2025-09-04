@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yukioka Koshiro
+# Welcome to Koshiro Yukioka's GitHub <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 
 **Web Engineer (SE・PG)** | Full-Stack Development | Type-Safe Development Specialist
 
