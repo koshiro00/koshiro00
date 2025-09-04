@@ -24,7 +24,7 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💰 Cost Optimization
 - **SupabaseからAWSへのアーキテクチャ移行**による**月額6万円のコスト削減**実績
@@ -32,16 +32,19 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 
 ### 🛡️ Security & Performance
 - 迷惑スパム対策による大量アクセス削減
-- E2Eテスト(Cypress)による品質向上
+- E2Eテスト(Cypress, Playwright)による品質向上
+- GitHub Actionsによるテスト自動化とCI/CD構築
 - セキュリティを考慮したシステム設計
 
+
+ 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Integration
 - **OpenAI APIを活用したLLM機能**のビジネス実装
 - 教育機関向けサービスでの先進的AI活用
-
+　
 ### 🎨 UI/UX Excellence
 - **Figmaデザインの忠実な再現**
 - StyledComponents, TailwindCSS, CSS Modulesによる柔軟なスタイリング
@@ -49,6 +52,7 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 - useSWRによる効率的なデータフェッチングとキャッシュ管理
 - Next.js SSR/SSG/ISR/CSRの適切な使い分け
 
+　
 </td>
 </tr>
 </table>
@@ -122,7 +126,7 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 </td>
 </tr>
 </table>
-
+z
 </div>
 
 </div>
