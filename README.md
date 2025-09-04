@@ -51,7 +51,6 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 - デザインシステム実装とコンポーネント設計
 - useSWRによる効率的なデータフェッチングとキャッシュ管理
 - Next.js SSR/SSG/ISR/CSRの適切な使い分け
-
 　
 </td>
 </tr>
@@ -126,7 +125,7 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 </td>
 </tr>
 </table>
-z
+
 </div>
 
 </div>
