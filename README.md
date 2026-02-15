@@ -2,7 +2,7 @@
 
 # Welcome to Koshiro Yukioka's GitHub <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 
-**Web Engineer (SE・PG)** | Full-Stack Development | Type-Safe Development Specialist
+**Web Engineer** 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=koshiro00&color=lightgrey&style=flat)
 
@@ -10,9 +10,10 @@
 
 
   
-## 🚀 Summary
-
-TypeScriptを中核とした型安全な開発を重視するWebエンジニア。設計からコスト算出、インフラまで一気通貫で対応可能。クライアント折衝から実装まで単独完遂した経験を持ち、ビジネス価値の創出に貢献しています。
+## 概要
+Webエンジニア。
+設計・実装からインフラ構築、コスト最適化まで対応。
+クライアント折衝から開発まで一貫して担当した経験あり。
 
 - **🗓️ Experience:** 2023年1月〜現在
 - **🏢 Domain:** 受託開発 ・ 自社プロダクト開発
@@ -20,7 +21,7 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 　
 
 　
-## 📈 Key Achievements
+## 主な実績
 
 <table>
 <tr>
@@ -43,7 +44,7 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 
 ### 🤖 AI Integration
 - **OpenAI APIを活用したLLM機能**のビジネス実装
-- 教育機関向けサービスでの先進的AI活用
+- 教育機関向けサービスでのAI活用
 　
 ### 🎨 UI/UX Excellence
 - **Figmaデザインの忠実な再現**
@@ -58,7 +59,7 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 
 　
  
-## 🛠️ Technical Skills
+## 技術スタック
 
 <div align="center">
 
@@ -106,23 +107,16 @@ TypeScriptを中核とした型安全な開発を重視するWebエンジニア�
 </div>
 　
  
-## 📊 GitHub Analytics
+## GitHub Summary
 
 <div align="center">
 
 <table>
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=koshiro00&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=666666&count_private=true" width="400" />
-</td>
-<td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=koshiro00&theme=default&hide_border=true&background=ffffff&stroke=666666&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=666666" width="400" />
-</td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koshiro00&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&langs_count=8" width="500" />
-</td>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=koshiro00&theme=minimal" width="800" />
 </tr>
 </table>
 
