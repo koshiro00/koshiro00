@@ -4,8 +4,6 @@
 
 **Web Engineer** 
 
-![Profile Views](https://komarev.com/ghpvc/?username=koshiro00&color=lightgrey&style=flat)
-
 </div>
 
 
